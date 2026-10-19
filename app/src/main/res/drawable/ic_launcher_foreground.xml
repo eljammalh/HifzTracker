@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Open book -->
+    <path
+        android:fillColor="#F3E6CC"
+        android:pathData="M53,46 C46,40 37,39 31,41 L31,71 C37,69 46,70 53,76 Z" />
+    <path
+        android:fillColor="#FAF7F0"
+        android:pathData="M55,46 C62,40 71,39 77,41 L77,71 C71,69 62,70 55,76 Z" />
+    <!-- Small star above -->
+    <path
+        android:fillColor="#E3C189"
+        android:pathData="M54,27 L55.8,31.6 L60.7,31.9 L56.9,35 L58.1,39.8 L54,37.1 L49.9,39.8 L51.1,35 L47.3,31.9 L52.2,31.6 Z" />
+</vector>
